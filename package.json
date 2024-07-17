@@ -1,0 +1,20 @@
+{
+  "name": "asvpweb.minjust.notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "run": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "yargs": "^17.0.1"
+  }
+}
