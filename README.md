@@ -22,7 +22,7 @@ add it to cron as
 #!/usr/bin/env bash
 
 SCRIPT_PATH='/Users/user/projects/asvpweb.minjust'
-NODE_PATH='/Users/user/.nvm/versions/node/v18.1.0/bin/node'
+NODE_PATH='/Users/user/.nvm/versions/node/v20.6.1/bin/node'
 
 cd "${SCRIPT_PATH}"
 "${NODE_PATH}" ./main.js -n 68****29 -s 70ВВ8****0Е5
